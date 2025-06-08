@@ -14,9 +14,3 @@ A Jupyter Notebook-based deep learning project to detect human facial emotions u
 - OpenCV
 - Keras/TensorFlow
 - NumPy, Matplotlib
-
-## 🧪 How to Run
-1. Clone the repository or download the notebook
-2. Install the required libraries:
-   ```bash
-   pip install -r requirements.txt
